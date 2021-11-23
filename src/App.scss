@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+
+  .App {
+    font-family: 'Outfit', sans-serif;
+
+    main {
+      margin: 3vh 5vw 0 5vw;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
